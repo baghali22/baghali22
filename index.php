@@ -1,3 +1,3 @@
 ?{
- echo"tools"
- ?}
+echo"tools"
+?}
